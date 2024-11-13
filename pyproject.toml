@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "scod"
-version = "0.1.0"
+version = "0.1.2"
 authors = ["Ricardo Castro <srrenks@gmail.com>"]
 description = "This module is essential for preprocessing receipt images to improve visual quality and facilitate automatic analysis."
 readme = "README.md"
